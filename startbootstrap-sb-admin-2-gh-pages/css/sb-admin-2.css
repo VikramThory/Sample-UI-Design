@@ -11008,3 +11008,13 @@ body.sidebar-toggled footer.sticky-footer {
   border-color: #333a46;
   background-color: #333a46;
 }
+
+.carousel-item {
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
