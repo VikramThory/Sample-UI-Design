@@ -41,8 +41,8 @@ body {
   }
   body .mask .modal {
     opacity: 0;
-    width: 300px;
-    height: 320px;
+    width: 600px;
+    height: 460px;
     background: rgba(0, 0, 0, 0.75);
     border-radius: 5px;
     box-shadow: 0 0 10px #000000, 0 0 0 1px rgba(47, 47, 47, 0.5) inset;
@@ -103,7 +103,7 @@ body {
     text-align: center;
     border: solid 2px #fff;
     margin: 25px 15px 0;
-    width: 275px;
+    width: 570px;
     color: #fff;
     line-height: 25px;
     border-radius: 20px 20px 20px 20px;
